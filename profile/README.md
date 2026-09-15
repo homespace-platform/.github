@@ -30,7 +30,6 @@ The team is establishing:
 - Infrastructure configurations
 - Authentication and authorization models
 - API and event contracts
-- Mock data and testing strategies
 
 > The repositories may currently contain only initial scaffolding,
 > configuration files, documentation, or experimental implementations.
